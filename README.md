@@ -3,7 +3,7 @@
 
 Este repositório contém uma série de exercícios básicos de Java que eu estou reproduzindo de um curso que estou fazendo. Esses exercícios são projetados para ajudar iniciantes a aprender os fundamentos da programação em Java.
 
-Cada exercício é um programa Java separado que aborda um conceito ou desafio específico. Os programas são numerados sequencialmente para facilitar a navegação e a referência.
+Cada exercício é um programa Java separado que aborda um conceito ou desafio específico. Os programas são numerados sequencialmente para facilitar a navegação e a referência. Você pode acessar os enunciados no PDF contido no repositório
 
 ## Pré-requisitos
 Para executar esses programas, você precisará ter o Java Development Kit (JDK) instalado no seu computador. Você pode baixar o JDK gratuitamente no site oficial da Oracle.
