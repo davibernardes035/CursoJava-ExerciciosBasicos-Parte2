@@ -5,18 +5,18 @@ Este repositório contém uma série de exercícios básicos de Java que eu esto
 
 Cada exercício é um programa Java separado que aborda um conceito ou desafio específico. Os programas são numerados sequencialmente para facilitar a navegação e a referência.
 
-##Pré-requisitos
+## Pré-requisitos
 Para executar esses programas, você precisará ter o Java Development Kit (JDK) instalado no seu computador. Você pode baixar o JDK gratuitamente no site oficial da Oracle.
 
-##Executando os programas
+## Executando os programas
 Para executar cada programa, siga estas etapas:
 
 1. Abra o terminal ou prompt de comando no diretório do programa Java que você deseja executar.
 2. Compile o arquivo Java digitando javac nomeDoArquivo.java no terminal.
 3. Execute o arquivo Java compilado digitando java nomeDoArquivo no terminal.
 
-##Contribuindo
+## Contribuindo
 Se você encontrar erros ou quiser melhorar algum exercício, sinta-se à vontade para enviar um pull request. Eu ficarei feliz em analisá-lo e aceitá-lo se ele agregar valor ao repositório.
 
-##Licença
+## Licença
 Este repositório é licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
